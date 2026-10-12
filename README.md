@@ -4,7 +4,7 @@ Submitted by: **Tabitha Sulaiman**
 
 About this web app: **Anime District is a virtual anime community where users can explore different locations and view events happening at each location. The app uses a React frontend, an Express API, and a PostgreSQL database hosted on Render.**
 
-Time spent: **1 hours**
+Time spent: **1.9 hours**
 
 ## Required Features
 
@@ -50,7 +50,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src="PASTE_YOUR_GIF_URL_HERE" title="Video Walkthrough" width="" alt="Video Walkthrough" />
+<img src="https://www.loom.com/share/d178b0683d534c228d2515967305f747" title="Video Walkthrough" width="" alt="Video Walkthrough" />
 
 GIF created with **loom**
 
