@@ -5,19 +5,19 @@ import '../css/Locations.css'
 
 const locationDetails = {
     1: {
-        route: '/shonen-arena',
+        route: '/uzushio-village',
         icon: '⚔️'
     },
     2: {
-        route: '/sakura-cafe',
+        route: '/naruto-cafe',
         icon: '🌸'
     },
     3: {
-        route: '/akihabara-arcade',
+        route: '/jinchiruki-coast',
         icon: '🎮'
     },
     4: {
-        route: '/moonlight-theater',
+        route: '/uchiha-hours',
         icon: '🌙'
     }
 }

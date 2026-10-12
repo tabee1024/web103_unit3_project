@@ -25,10 +25,10 @@ const createTables = async () => {
         await pool.query(`
       INSERT INTO locations (name, description, image)
       VALUES
-        ('Shonen Arena', 'A high-energy arena for battles, tournaments, and shonen anime events.', ''),
-        ('Sakura Cafe', 'A cozy anime cafe for manga clubs, trivia, and relaxed meetups.', ''),
-        ('Akihabara Arcade', 'An arcade-inspired space for gaming tournaments and anime competitions.', ''),
-        ('Moonlight Theater', 'A theater for anime screenings, premieres, and watch parties.', '');
+        ('Uzushio Village', 'A high-energy arena for battles, tournaments, and shonen anime events.', ''),
+        ('Naruto Cafe', 'A cozy anime cafe for manga clubs, trivia, and relaxed meetups.', ''),
+        ('Jinchiruki Coast', 'An arcade-inspired space for gaming tournaments and anime competitions.', ''),
+        ('Uchiha Hours', 'A theater for anime screenings, premieres, and watch parties.', '');
     `)
 
         await pool.query(`

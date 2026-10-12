@@ -11,19 +11,19 @@ const App = () => {
                element: <Locations />
           },
           {
-               path: '/shonen-arena',
+               path: '/uzushio-village',
                element: <LocationEvents index={1} />
           },
           {
-               path: '/sakura-cafe',
+               path: '/naruto-cafe',
                element: <LocationEvents index={2} />
           },
           {
-               path: '/akihabara-arcade',
+               path: '/jinchiruki-coast',
                element: <LocationEvents index={3} />
           },
           {
-               path: '/moonlight-theater',
+               path: '/uchiha-hours',
                element: <LocationEvents index={4} />
           }
      ])
